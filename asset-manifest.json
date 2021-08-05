@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FileSharingapp/static/css/main.18de8aef.chunk.css",
+    "main.js": "/FileSharingapp/static/js/main.793028ad.chunk.js",
+    "main.js.map": "/FileSharingapp/static/js/main.793028ad.chunk.js.map",
+    "runtime-main.js": "/FileSharingapp/static/js/runtime-main.f478e182.js",
+    "runtime-main.js.map": "/FileSharingapp/static/js/runtime-main.f478e182.js.map",
+    "static/css/2.a6a636a0.chunk.css": "/FileSharingapp/static/css/2.a6a636a0.chunk.css",
+    "static/js/2.0b865d9b.chunk.js": "/FileSharingapp/static/js/2.0b865d9b.chunk.js",
+    "static/js/2.0b865d9b.chunk.js.map": "/FileSharingapp/static/js/2.0b865d9b.chunk.js.map",
+    "index.html": "/FileSharingapp/index.html",
+    "precache-manifest.5e0077b5f6cd2aa583580ab1e5de75c9.js": "/FileSharingapp/precache-manifest.5e0077b5f6cd2aa583580ab1e5de75c9.js",
+    "service-worker.js": "/FileSharingapp/service-worker.js",
+    "static/css/2.a6a636a0.chunk.css.map": "/FileSharingapp/static/css/2.a6a636a0.chunk.css.map",
+    "static/css/main.18de8aef.chunk.css.map": "/FileSharingapp/static/css/main.18de8aef.chunk.css.map",
+    "static/js/2.0b865d9b.chunk.js.LICENSE.txt": "/FileSharingapp/static/js/2.0b865d9b.chunk.js.LICENSE.txt",
+    "static/media/box.png": "/FileSharingapp/static/media/box.df8b84d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f478e182.js",
+    "static/css/2.a6a636a0.chunk.css",
+    "static/js/2.0b865d9b.chunk.js",
+    "static/css/main.18de8aef.chunk.css",
+    "static/js/main.793028ad.chunk.js"
+  ]
+}
